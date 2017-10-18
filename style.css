@@ -70,7 +70,7 @@ a {
 }
 
 .btn_red:hover {
-  background-color: #c7a693;
+  background-color: #dbc3d0;
 }
 
 .movie-desc {
@@ -93,15 +93,20 @@ a {
 }
 
 i:hover {
-  color: #c7a693;
+  color: #dbc3d0;
 }
 
 i:visited {
-  color: #856046;
+  color: #5e0231;
 }
 
+.movie-title {
+  color: #dbc3d0;
+}
 
-
+.movie-header {
+  color: #5e0231;
+}
 
 
 
