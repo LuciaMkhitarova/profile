@@ -1,0 +1,109 @@
+body {
+  /*background-color: rgb(240,240,240);*/
+  background-color: #F3F7F6;
+  color: #312c32;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.2px;
+  word-spacing: 0.2px;
+}
+
+h1, h2, h3 {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 0.2px;
+  word-spacing: 0.2px;
+}
+
+h1 {
+  color: #5e0231;
+}
+
+h2 {
+  color: #dbc3d0;
+}
+
+p {
+  font-weight: .5px;
+}
+
+a {
+  text-decoration: none;
+  color: #312c32;
+  opacity: 0.7;
+  font-weight: 400;
+}
+
+.container {
+  width: 600px;   /* This sets the width */
+  margin: 30px auto; /* This automatically sets left/right margins */
+
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 1px 0px #dbc3d0/*rgba(0, 0, 0, 0.2)*/;
+  text-align: center;
+}
+
+.avatar {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  border: 3px solid rgba(150,150,150,0.4);
+}
+
+.movie {
+  width: 180px;
+  border-radius: 2px;
+}
+
+.btn_red {
+    background-color: #5e0231;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 7px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.btn_red:hover {
+  background-color: #c7a693;
+}
+
+.movie-desc {
+  font-weight: lighter;
+  color: red;
+}
+
+.text-center {
+  text-align: center;
+  display: inline-block;
+  padding: 20px;
+  font-size: 40px;
+}
+
+.list-inline {
+  padding-left: 0;
+  display: block;
+  list-style-type: disc;
+  color: rgba(50,50,50, 0.7);
+}
+
+i:hover {
+  color: #c7a693;
+}
+
+i:visited {
+  color: #856046;
+}
+
+
+
+
+
+
+
+
